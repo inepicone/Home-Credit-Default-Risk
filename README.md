@@ -14,8 +14,10 @@ The competition uses [Area Under the ROC Curve](https://developers.google.com/ma
 ## Overview:
     - EDA and Correlation analysis.
     - Data Preprocessing
-    - Baseline: LogisticRegression
+    - Models Used:
+        LogisticRegression
         + GridSearch to improove the performance.
-    - Training a Random Forest Classifier
-    
+        Random Forest Classifier
+        LGBM
+    - Pipeline incorporation
     
